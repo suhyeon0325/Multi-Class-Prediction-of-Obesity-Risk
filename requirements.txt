@@ -13,3 +13,5 @@ lightgbm
 xgboost
 catboost
 prettytable
+scikit-optimize
+
